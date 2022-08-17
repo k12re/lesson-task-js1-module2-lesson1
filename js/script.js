@@ -24,10 +24,8 @@ prizes.forEach(function (prize, index) {
 
 //Question 3
 
-//My solution, probaly not a good solution
-
+//My solution, probaly not a good solution:
 //let milliseconds = 5000;
-
 //setTimeout(function () {
 //  console.log("I waited 5 seconds before executing");
 //}, milliseconds);
